@@ -1,0 +1,26 @@
+
+Josh:
+ - Part 2: Writing the data set information
+ - Data cleaning:
+    - Missing values
+    - Fixing data types
+    - Removing unimportant fields
+    - Outlier handling
+ - EDA:
+    - Number sold per OS
+
+Josiah:
+ - Part 3: Setting up Hadoop and ingesting the data
+ - Data cleaning:
+    - Create column revenue_per_game
+    - Remove duplicates / resolving inconsistent IDs
+- EDA:
+    - Correlation between number of languages listed and estimated copies sold
+
+Dan:
+ - EDA:
+    - Correlation between price (5s and 10s) and estimated copies sold 
+    - Genre count plot
+    - Chart of required age for game
+
+
