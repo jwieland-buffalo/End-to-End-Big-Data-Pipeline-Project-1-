@@ -19,8 +19,9 @@ Josiah:
 
 Dan:
  - EDA:
-    - Correlation between price (5s and 10s) and estimated copies sold 
-    - Genre count plot
-    - Chart of required age for game
+    - Correlation between price and estimated copies sold
+    - Aggregation of price (5s and 10s) and estimated copies sold
+    - Genre count plot (bar and pie charts)
+    - Pie Chart of required age for games
 
 
